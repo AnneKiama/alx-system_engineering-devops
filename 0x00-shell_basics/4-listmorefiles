@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la === list directory contents in long form, including hidden files
+ls -la
