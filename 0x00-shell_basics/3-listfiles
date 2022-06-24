@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l === list directory content in long form
+echo "ls -l === list directory content in long form"
