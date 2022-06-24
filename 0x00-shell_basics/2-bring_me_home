@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "cd === change directory"
+echo "/root"
